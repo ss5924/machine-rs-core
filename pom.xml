@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>me.songha.rs</groupId>
-    <artifactId>machine-rs-core</artifactId>
+    <artifactId>machine-rs-domain</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>machine-rs-core</name>
-    <description>machine-rs-core</description>
+    <description>machine-rs-domain</description>
     <properties>
         <java.version>21</java.version>
     </properties>
